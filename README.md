@@ -1,2 +1,2 @@
 # Plugins
-I put plugins here.
+I put Minecraft plugins here.
