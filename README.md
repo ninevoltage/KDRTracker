@@ -5,3 +5,6 @@ KDRTracker is a lightweight Minecraft: Java Edition plugin developed for 1.21.8 
 /kdr (player) - view yours or other player's kills, deaths, and KDR.
 
 /topkills - view the top 10 players with the most kills on the server.
+
+# Confirguration
+No configuration needed. Just place this plugin in your plugins folder.
